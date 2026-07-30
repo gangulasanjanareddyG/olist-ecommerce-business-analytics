@@ -1,5 +1,17 @@
 # 📊 Brazilian E-Commerce Business Analytics
 
+## ⭐ Project at a Glance
+
+| Project | Details |
+|---------|---------|
+| Domain | E-Commerce Analytics |
+| Dataset | Brazilian Olist Public Dataset |
+| Records Analyzed | 100,000+ Orders |
+| Language | Python |
+| Libraries | Pandas, Matplotlib |
+| Platform | Zerve |
+| Analysis Type | Exploratory Data Analysis (EDA) |
+
 > End-to-end Business Analytics project using **Python**, **Pandas**, **Matplotlib**, and **Zerve AI** to analyze customer behavior, revenue drivers, delivery performance, and payment preferences using the Brazilian Olist E-Commerce dataset.
 
 ---
@@ -16,6 +28,10 @@ The analysis combines **exploratory data analysis**, **data integration**, **fea
 
 ### 🚚 1. Does delivery time influence customer satisfaction?
 
+<p align="center">
+<img src="images/delivery-vs-review-score.png" width="750">
+</p>
+
 **Finding**
 
 Customers experiencing longer delivery times consistently provided lower review scores.
@@ -27,6 +43,10 @@ Improving logistics and delivery efficiency can directly improve customer satisf
 ---
 
 ### 💰 2. Which product categories generate the highest revenue?
+
+<p align="center">
+<img src="images/top-revenue-categories.png" width="750">
+</p>
 
 Top Categories
 
@@ -43,6 +63,10 @@ Revenue is concentrated in a small number of product categories, providing oppor
 ---
 
 ### 💳 3. Which payment methods do customers prefer?
+
+<p align="center">
+<img src="images/payment-method-distribution.png" width="550">
+</p>
 
 Results
 
@@ -123,6 +147,19 @@ Brazilian E-Commerce Public Dataset by Olist
 
 Available through the Zerve platform.
 
+---
+
+## 📌 Skills Demonstrated
+
+- Exploratory Data Analysis
+- Business Analytics
+- Data Cleaning
+- Data Integration
+- Feature Engineering
+- Data Visualization
+- Business Storytelling
+- AI-assisted Analytics
+  
 ---
 
 # 👩‍💻 Author
