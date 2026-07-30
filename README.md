@@ -45,7 +45,7 @@ Improving logistics and delivery efficiency can directly improve customer satisf
 ### 💰 2. Which product categories generate the highest revenue?
 
 <p align="center">
-<img src="images/top-revenue-categories.png" width="750">
+<img src="images/payment-method-distribution.png" width="550">
 </p>
 
 Top Categories
@@ -65,7 +65,7 @@ Revenue is concentrated in a small number of product categories, providing oppor
 ### 💳 3. Which payment methods do customers prefer?
 
 <p align="center">
-<img src="images/payment-method-distribution.png" width="550">
+<img src="images/top-revenue-categories.png" width="750">
 </p>
 
 Results
