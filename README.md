@@ -1,5 +1,12 @@
 # 📊 Brazilian E-Commerce Business Analytics
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-success?style=for-the-badge)
+
+> **Turning 100,000+ real-world e-commerce transactions into actionable business insights through analytics, visualization, and AI-assisted reasoning.**
+
 ## ⭐ Project at a Glance
 
 | Project | Details |
@@ -94,25 +101,15 @@ Optimizing the checkout experience for the dominant payment methods can improve 
 
 # 🤖 AI Usage
 
-Rather than generating the project automatically, Zerve AI was used as an analytical assistant to:
+AI was used as an analytical assistant throughout the project to support ideation and interpretation rather than replace the analytical process.
 
-- Brainstorm business questions
+Specifically, Zerve AI was used to:
+
+- Refine business questions
 - Validate analytical findings
-- Suggest business recommendations
+- Generate business recommendations
 
-The data preparation, feature engineering, analysis, and visualizations were completed and verified using Python.
-
----
-
-# 📈 Key Skills Demonstrated
-
-- Data Cleaning
-- Data Integration
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Business Intelligence
-- Data Visualization
-- AI-assisted Analytics
+All data preparation, feature engineering, visualizations, and conclusions were independently developed and verified using Python.
 
 ---
 
@@ -120,14 +117,11 @@ The data preparation, feature engineering, analysis, and visualizations were com
 
 ```text
 .
-├── notebooks/
-├── report/
 ├── images/
-├── docs/
 ├── README.md
-└── LICENSE
+├── LICENSE
+└── .gitignore
 ```
-
 ---
 
 # 🚀 Future Improvements
@@ -143,7 +137,7 @@ The data preparation, feature engineering, analysis, and visualizations were com
 
 # 📄 Dataset
 
-Brazilian E-Commerce Public Dataset by Olist
+The analysis uses the **Brazilian Olist Public E-Commerce Dataset**, a real-world relational dataset containing over **100,000 orders** and multiple interconnected tables covering customers, orders, products, payments, reviews, and sellers.
 
 Available through the Zerve platform.
 
@@ -162,10 +156,28 @@ Available through the Zerve platform.
   
 ---
 
+# 🌐 Live Project
+
+### 📓 Interactive Notebook
+
+https://app.zerve.ai/notebook/547d8cdd-98e0-4928-b05a-ee7df41cd37b
+
+### 📄 Interactive Report
+
+https://app.zerve.ai/report/be09505f-8725-4836-8056-f4f9b20fe99f
+
+---
+
 # 👩‍💻 Author
+
+# 📬 Contact
 
 **Sanjana Reddy Gangula**
 
-Master's Student — Business Analytics
+🎓 Master's Student — Business Analytics
 
 California State University, East Bay
+
+📧 gangulasanjanareddy@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/sanjanagangula
